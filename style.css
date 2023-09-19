@@ -1,0 +1,39 @@
+body{
+    top:-200;
+    text-align: center;
+    color:azure;
+    background-image:url(libimg.webp) ;
+    font-size:70px;
+    font-family:'Times New Roman', Times, serif;
+    text-shadow: 2px 2px;
+}
+p{
+    color:black; 
+    text-shadow: 2px 2px;
+
+}
+button{
+    background-color:azure;
+    width: 250px;
+    border-radius: 50%;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+   
+    box-shadow:0 5px #131212;
+    transform: translateY(4px);
+}
+.demo{
+    color: black;
+    background-image: url(libimg.webp);
+    text-align: center;
+}
+.styled-text{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    top:-250px;
+}
